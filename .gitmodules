@@ -1,0 +1,3 @@
+[submodule "third-party/libcmaes"]
+	path = third-party/libcmaes
+	url = https://github.com/CMA-ES/libcmaes.git
